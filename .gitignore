@@ -1,0 +1,13 @@
+# Dependencias de Node.js (backend)
+backend/node_modules/
+
+# Dependencias de Node.js (frontend)
+frontend/node_modules/
+
+# Variables de entorno (claves secretas)
+.env
+.env.*
+
+# Carpetas de compilación o build
+dist/
+build/
